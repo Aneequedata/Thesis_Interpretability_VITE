@@ -1,6 +1,6 @@
 # **VITE: Visualization Tool for Tree Ensembles**
 
-This repository contains the implementation of **VITE (Visualization Tool for Tree Ensembles)**, as presented in the research paper *"Unboxing Tree Ensembles for Interpretability: A Hierarchical Visualization Tool and a Multivariate Optimal Re-Built Tree"* by Giulia Di Teodoro, Marta Monaci, and Laura Palagi.
+This repository contains the implementation of **VITE (Visualization Tool for Tree Ensembles)** as part of my Masters' Thesis in Management Engineering (Business Intelligence and Analytics) from Sapienza University, as presented in the research paper *"Unboxing Tree Ensembles for Interpretability: A Hierarchical Visualization Tool and a Multivariate Optimal Re-Built Tree"* by Giulia Di Teodoro, Marta Monaci, and Laura Palagi.
 
 ## **Overview**
 
